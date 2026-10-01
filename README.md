@@ -25,7 +25,7 @@ Models are not included in the installer. Place them in `%USERPROFILE%\Murmur\mo
 | Voice activity detection | `ggml-silero-v6.2.0.bin` |
 | Read-aloud voice (Kokoro) | `kokoro.onnx` |
 
-Whisper and Silero models: [huggingface.co/ggerganov/whisper.cpp](https://huggingface.co/ggerganov/whisper.cpp/tree/main).
+Downloads: Whisper from [ggerganov/whisper.cpp](https://huggingface.co/ggerganov/whisper.cpp/tree/main), Silero VAD from [ggml-org/whisper-vad](https://huggingface.co/ggml-org/whisper-vad/tree/main).
 
 Installing, updating or uninstalling Murmur never touches your models, recordings (`%USERPROFILE%\Murmur\recordings`) or settings (`%LOCALAPPDATA%\Murmur`).
 
