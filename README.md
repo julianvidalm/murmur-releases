@@ -32,8 +32,12 @@ Installing, updating or uninstalling Murmur never touches your models, recording
 ## Requirements
 
 - Windows 10/11 x64
-- Optional: NVIDIA GPU with the CUDA Toolkit for faster transcription (falls back to CPU)
+- Optional: a GPU for faster transcription: an NVIDIA RTX 30 or newer with the CUDA Toolkit, or any GPU with its driver through Vulkan (falls back to CPU)
 - Optional: [Ollama](https://ollama.com) for the adapted read-aloud mode
+
+## License
+
+Murmur is free to use, at home or at work, on any number of computers. You may pass on the installer or portable package unmodified and free of charge, together with its `licenses` folder. It is provided as is, without warranty. See [LICENSE](LICENSE); the installed app carries it as `LICENSE.txt`, and the open-source components it includes are listed with their licenses in its `licenses` folder.
 
 ## Uninstall
 
