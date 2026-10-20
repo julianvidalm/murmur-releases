@@ -1,0 +1,60 @@
+Murmur License
+
+Copyright (c) 2026 Julian Vidal. All rights reserved.
+
+Murmur (the "Software") is free of charge. You do not need to pay, register or
+accept anything else to use it.
+
+1. What you may do
+
+   a. Download, install and use the Software, for personal or work purposes,
+      on any number of computers.
+   b. Redistribute unmodified copies of the official installer or portable
+      package, free of charge, as long as this license and the "licenses"
+      folder stay with them.
+
+2. What you may not do
+
+   a. Sell, rent or otherwise charge for the Software, or include it in a
+      product or service you charge for.
+   b. Modify, translate, decompile, disassemble or reverse engineer the
+      Software, or make derivative works of it, except where applicable law
+      expressly allows it despite this limitation.
+   c. Remove or alter this license, copyright notices or third-party notices.
+   d. Present the Software as your own, or use the name "Murmur" in a way that
+      suggests the author endorses something they do not.
+
+3. Third-party components
+
+   The Software includes open-source components that keep their own licenses,
+   listed in licenses/THIRD-PARTY-NOTICES.txt. Those licenses govern those
+   components, and nothing in this license limits the rights they grant.
+
+4. Recordings and consent
+
+   The Software records audio and takes screenshots on your computer, and
+   transcribes them there. You are responsible for informing the people you
+   record and obtaining their consent, as required by the laws and policies
+   that apply to you. If you connect an AI agent or another program to the
+   Software, what you share with it is subject to that program's terms.
+
+5. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TRANSCRIPTS,
+   TRANSLATIONS, SUMMARIES AND READINGS ARE PRODUCED AUTOMATICALLY AND MAY BE
+   INCOMPLETE OR WRONG.
+
+6. Limitation of liability
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, INCLUDING THE LOSS OF RECORDINGS OR OTHER DATA, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination and changes
+
+   These rights end automatically if you break this license; you must then
+   delete your copies. Each version of the Software is governed by the license
+   it ships with; later versions may come with a different one.
